@@ -16,4 +16,5 @@ public class test {
 =======
 	//修复完bug
 >>>>>>> 6fbe7e3 (bug修复完成)
+	//测试stash功能
 }
