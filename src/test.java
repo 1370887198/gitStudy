@@ -22,4 +22,5 @@ public class test {
 	//测试stash功能
 >>>>>>> jinkaichaotest
 	//第一次push
+	//第二次push
 }
