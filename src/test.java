@@ -23,4 +23,5 @@ public class test {
 >>>>>>> jinkaichaotest
 	//第一次push
 	//第22222次push
+	//testpull
 }
