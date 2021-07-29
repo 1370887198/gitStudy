@@ -8,9 +8,5 @@ public class test {
 	//在add
 	//测试push命令
 	//working on branch jinkacihao
-<<<<<<< HEAD
-	//冲突test
-=======
-	//冲突测试
->>>>>>> jinkaichao
+	//jinkaichaobranch中解决了冲突
 }
