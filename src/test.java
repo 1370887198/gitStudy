@@ -11,5 +11,9 @@ public class test {
 	//jinkaichaobranch中解决了冲突
 	//test2
 	//test3
+<<<<<<< HEAD
 	//test git stash
+=======
+	//修复完bug
+>>>>>>> 6fbe7e3 (bug修复完成)
 }
