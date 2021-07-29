@@ -8,4 +8,5 @@ public class test {
 	//在add
 	//测试push命令
 	//working on branch jinkacihao
+	//冲突test
 }
