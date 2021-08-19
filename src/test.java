@@ -4,4 +4,5 @@
  */
 public class test {
     private int age;
+    private int second;
 }
