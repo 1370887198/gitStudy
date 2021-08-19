@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03e87e37-2e3c-4757-b3cb-a725e51fc3da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -14,5 +42,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="147" y="98" key="MergeDialog" timestamp="1629355854239">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="147" y="98" key="MergeDialog/-2560.-378.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1629355854239" />
+    <state x="784" y="431" width="827" height="451" key="MultipleFileMergeDialog" timestamp="1629355854278">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="784" y="431" width="827" height="451" key="MultipleFileMergeDialog/-2560.-378.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1629355854278" />
+    <state x="704" y="261" key="VCS.ChangeListViewerDialog" timestamp="1629355740090">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="704" y="261" key="VCS.ChangeListViewerDialog/-2560.-378.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1629355740090" />
   </component>
 </project>
